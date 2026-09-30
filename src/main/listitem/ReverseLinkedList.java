@@ -20,7 +20,7 @@ public final class ReverseLinkedList {
     throw new UnsupportedOperationException("TODO: Implement me");
   }
 
-  // Reverses the list in-place. head may be null.
+  // Reverses the list in place. head may be null.
   public static ListItem reverseListInPlace(ListItem head) {
     // TODO: Implement me
     throw new UnsupportedOperationException("TODO: Implement me");
