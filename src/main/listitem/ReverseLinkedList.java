@@ -26,7 +26,7 @@ public final class ReverseLinkedList {
     return newItem;
   }
 
-  // Reverses the list in-place. head may be null.
+  // Reverses the list in place. head may be null.
   public static ListItem reverseListInPlace(ListItem head) {
     ListItem prev = null;
     ListItem current = head;
