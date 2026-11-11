@@ -5,6 +5,6 @@ public class ReverseLinkedListInPlaceTest extends ReverseLinkedListTest {
 
   @Override
   protected ListItem reverse(ListItem head) {
-    return ReverseLinkedList.reverseListInPlace(head);
+    return ReverseLinkedListInPlace.reverseList(head);
   }
 }

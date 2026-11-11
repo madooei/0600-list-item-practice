@@ -5,6 +5,6 @@ public class ReverseLinkedListNaiveTest extends ReverseLinkedListTest {
 
   @Override
   protected ListItem reverse(ListItem head) {
-    return ReverseLinkedList.reverseListNaive(head);
+    return ReverseLinkedListNaive.reverseList(head);
   }
 }
