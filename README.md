@@ -45,7 +45,7 @@ code/
 - `scripts/test.sh listitem.ReverseLinkedListNaiveTest` — compiles everything and runs one test class only. Use this while you are working on one solution and the others are still empty. The class names are listed in the layout above.
 - `scripts/run.sh demo.DetectCycleDemo` — compiles everything and runs that one demo. Every solution class has its own demo, `<Class>Demo`.
 
-## What's here
+## Contents
 
 - `listitem.ReverseLinkedListNaive` — `reverseList`, which builds a new list by prepending each value: O(n) time, O(n) extra space.
 - `listitem.ReverseLinkedListInPlace` — `reverseList`, which re-points each link with three references: O(n) time, O(1) auxiliary space.
